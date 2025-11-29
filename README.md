@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-**Try it now:** [https://your-deployed-app-url.vercel.app](https://phishguard-black.vercel.app/)
+**Try it now:** [click here for live web app](https://phishguard-black.vercel.app/)
 
 
 PhishGuard AI is a web application that analyzes emails in real-time to detect phishing attempts. It uses advanced AI (Groq's LLaMA 3.1) to identify suspicious patterns, fake domains, and social engineering tactics, providing users with instant threat assessments and actionable recommendations.
@@ -56,8 +56,8 @@ phishguard-ai/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Yaswanthkumarreddyundela/phishguard.git
-cd phishguard
+git clone [https://github.com/Yaswanthkumarreddyundela/phishguard.git](https://github.com/Yaswanthkumarreddyundela/Phishguard_AI)
+cd Phishguard_AI
 ```
 
 ### 2. Backend Setup
@@ -94,7 +94,7 @@ Open a new terminal:
 
 ```bash
 # Navigate to project root (if not already there)
-cd phishguard-ai
+cd Phishguard_AI
 
 # Install frontend dependencies
 npm install
